@@ -1,5 +1,5 @@
 # collectorswu
 Name:collectorswu
 Type:Blog  
-Site:www.netstudying.cn  
+Site:www.blog.netstudying.cn  
       https://collectorswu.github.io
